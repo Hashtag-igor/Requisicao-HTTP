@@ -1,0 +1,8 @@
+//Pacotes baixados (Axios e React-Router-Dom):
+npm i axios react-router-dom
+
+//API utilizada:
+JSON Placeholder
+"https://jsonplaceholder.typicode.com"
+
+//Para entender a Imagem da pasta, vá em axios > src > axios > config.js e leia o cabeçalho; 
