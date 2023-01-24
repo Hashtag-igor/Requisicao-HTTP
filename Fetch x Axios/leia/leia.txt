@@ -1,14 +1,14 @@
-            -AXIOS x FETCH-
-//Qual a melhor biblioteca para fazer requisições HTTP em js?
+            #AXIOS x FETCH
+**Qual a melhor biblioteca para fazer requisições HTTP em js?**
 
-//FETCH:
+*FETCH:**
 *É UMA API que permite que uma aplicação faça uma requisição http para recuperar recursos da web;
 *Compativel com os navegadores modernos;
 *O FETCH pode ser um pouco mais dificil de se utilizar do que o AXIOS, pois requer mais código para tratar erros e cancelar solicitações;
 *Diferente do AXIOS que precisa ser instalado e importado para se utilizar, o FECTH já vem por padrão;
 
 __________________________________________________________________________________________________________________
-//AXIOS:
+**AXIOS:**
 Precisa ser baixada e importada no projeto para utiliza-lá;
 *npm i axios = para baixar a biblioteca || import axios from "axios" = para importar e usar a biblioteca;
 *É uma biblioteca javascript que permite fazer solicitações http facilmente;
@@ -18,5 +18,5 @@ Precisa ser baixada e importada no projeto para utiliza-lá;
 *O AXIOS oferece uma API mais simples e intuitiva, com métodos mais fáceis de usar para fazer solicitações e tratar erros;
 
 
-Para ler:
+**Para ler:**
 https://www.devmedia.com.br/consumindo-uma-api-com-react-js-e-axios/42900#:~:text=O%20Axios%20%C3%A9%20um%20biblioteca,quem%20usa%20o%20fetch%20api.
